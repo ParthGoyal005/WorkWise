@@ -1,0 +1,2 @@
+# Prompt templates will be added with the RAG / AI modules.
+# Keep prompts out of controllers — import from this folder.
